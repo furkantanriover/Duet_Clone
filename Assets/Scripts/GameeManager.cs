@@ -17,7 +17,7 @@ public class GameeManager : MonoBehaviour
         }
     }
 
-    #endregion //
+    #endregion 
 
     [HideInInspector] public bool isGameover = false; // inspectordan görünmesin ama diğer scriptlerden erişebileyim
 }
