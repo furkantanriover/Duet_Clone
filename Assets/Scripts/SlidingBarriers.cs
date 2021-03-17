@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
 
-public class Sliding : MonoBehaviour
+public class SlidingBarriers : MonoBehaviour
 {
     [SerializeField] float slideDistance;
     [SerializeField] float slideDuration;
